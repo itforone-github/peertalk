@@ -1,0 +1,274 @@
+{
+  "project_info": {
+    "project_number": "752286861662",
+    "project_id": "dreamforonefcm",
+    "storage_bucket": "dreamforonefcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752286861662:android:6ce1825f5f02d90de427cf",
+        "android_client_info": {
+          "package_name": "co.kr.itforone.peertalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752286861662-416cp2ucusuaofjadrfk7e4s1hhnrh86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.kr.itforone.peertalk",
+            "certificate_hash": "9f9ae61be031d3ae7eb6e75ce0a86b3574897ca5"
+          }
+        },
+        {
+          "client_id": "752286861662-6efod6n867vhtbo6hfjo4jumb25ctbkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS9HKaHcDg7_hu-PhmW-N15eL3epnkPMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752286861662-6efod6n867vhtbo6hfjo4jumb25ctbkc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "752286861662-7db8fif74u7lnvitrm5i2ib3tvqi79i8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.itforone.jewelleryshen"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752286861662:android:2ac32acad2e3c962e427cf",
+        "android_client_info": {
+          "package_name": "com.dreamforone.yeaneun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752286861662-19kjcorra5kb5lpms2ccb28bnvoqc5s5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dreamforone.yeaneun",
+            "certificate_hash": "b71ba6c8ac119ccccf5fb5318f3d38cd4968fa05"
+          }
+        },
+        {
+          "client_id": "752286861662-6efod6n867vhtbo6hfjo4jumb25ctbkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS9HKaHcDg7_hu-PhmW-N15eL3epnkPMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752286861662-6efod6n867vhtbo6hfjo4jumb25ctbkc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "752286861662-7db8fif74u7lnvitrm5i2ib3tvqi79i8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.itforone.jewelleryshen"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752286861662:android:32a5aaa20d065b96e427cf",
+        "android_client_info": {
+          "package_name": "kr.co.itforone.jewelleryshen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752286861662-1sqa6pcg8dov4s88j11eg8io131ba9fs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.co.itforone.jewelleryshen",
+            "certificate_hash": "d06a2be4fbe3cf298f1ecea63016d835be45959e"
+          }
+        },
+        {
+          "client_id": "752286861662-6efod6n867vhtbo6hfjo4jumb25ctbkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS9HKaHcDg7_hu-PhmW-N15eL3epnkPMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752286861662-6efod6n867vhtbo6hfjo4jumb25ctbkc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "752286861662-7db8fif74u7lnvitrm5i2ib3tvqi79i8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.itforone.jewelleryshen"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752286861662:android:471ea0d2e9279478e427cf",
+        "android_client_info": {
+          "package_name": "kr.co.itforone.podosea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752286861662-t11pc19m9mtlvtnpqpgeec0av5p7tgvs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.co.itforone.podosea",
+            "certificate_hash": "a4d57bfeb0f8a501b7701d3a4ab88de785e29b77"
+          }
+        },
+        {
+          "client_id": "752286861662-tsi6ro5des2mgfre9sesulk300flbpog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.co.itforone.podosea",
+            "certificate_hash": "2e3f2b8b41bbd129964de580d318006b86889bd6"
+          }
+        },
+        {
+          "client_id": "752286861662-6efod6n867vhtbo6hfjo4jumb25ctbkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS9HKaHcDg7_hu-PhmW-N15eL3epnkPMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752286861662-6efod6n867vhtbo6hfjo4jumb25ctbkc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "752286861662-7db8fif74u7lnvitrm5i2ib3tvqi79i8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.itforone.jewelleryshen"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752286861662:android:3b61b53780419857e427cf",
+        "android_client_info": {
+          "package_name": "kr.co.itforone.tdaeri2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752286861662-6efod6n867vhtbo6hfjo4jumb25ctbkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS9HKaHcDg7_hu-PhmW-N15eL3epnkPMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752286861662-6efod6n867vhtbo6hfjo4jumb25ctbkc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "752286861662-7db8fif74u7lnvitrm5i2ib3tvqi79i8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.itforone.jewelleryshen"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752286861662:android:54aeddf84b6bdb1de427cf",
+        "android_client_info": {
+          "package_name": "kr.co.itforone.ylland"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752286861662-3njbeejq4gnj6h37d06n2pa2n3au2h80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.co.itforone.ylland",
+            "certificate_hash": "7712d6e61d0ec2c27761a57e6f4d9fe9e09b163a"
+          }
+        },
+        {
+          "client_id": "752286861662-6efod6n867vhtbo6hfjo4jumb25ctbkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS9HKaHcDg7_hu-PhmW-N15eL3epnkPMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752286861662-6efod6n867vhtbo6hfjo4jumb25ctbkc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "752286861662-7db8fif74u7lnvitrm5i2ib3tvqi79i8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.itforone.jewelleryshen"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
